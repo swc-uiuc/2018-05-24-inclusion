@@ -6,7 +6,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "REU-INCLUSION Software Carpentry Workshop"
 
 # Contact email address.
 email: lessons@software-carpentry.org
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: swc-uiuc/2018-05-24-inclusion
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -32,19 +32,19 @@ swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/swc-uiuc/2018-05-24-inclusion"
+workshop_site: "https://swcarpentry.github.io/2018-05-24-inclusion"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 
 # Surveys.
-swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
-swc_post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
-dc_pre_survey: "https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id="
-dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
+swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2018-05-24-inclusion"
+swc_post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2018-05-24-inclusion"
+dc_pre_survey: "https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id=2018-05-24-inclusion"
+dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id=2018-05-24-inclusion"
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am)
-start_time: 0
+start_time: 480
 
 # Specify that things in the episodes collection should be output.
 collections:
